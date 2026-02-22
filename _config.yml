@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: 呜哩天才琪露诺的个人主页
 
 # Your name to show in the footer
-author: Some Person
+author: 呜哩天才琪露诺
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "关于我"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+
 
 # Add the website title to the title of every page
 title-on-all-pages: true
