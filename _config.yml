@@ -20,7 +20,7 @@ author: 呜哩天才琪露诺
 ###############################################
 
 navbar-links:
-  About Me: "关于我"
+  关于我: aboutme
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
