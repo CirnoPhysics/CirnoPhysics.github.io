@@ -48,8 +48,5 @@ redirect_from:
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-服务与管理
-======
-* 武汉高校天文联合会科研部副部长
-* 华中科技大学物理学院 “星系与宇宙学” 本科创新基地负责人
+
   
