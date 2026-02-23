@@ -26,7 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "赵淦"
   pronouns         : # example: "she/her"  
-  bio              : "胜败无关紧要，唯有游历而求索"
+  bio              : "胜败无关紧要，唯有游历而求
+  \\索"
   location         : "武汉"
   employer         : "华中科技大学"
   uri              : # URL
@@ -80,7 +81,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "呜哩天才琪露诺"
+  zhihu            : "zhao-gan-46-59"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
