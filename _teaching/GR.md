@@ -1,10 +1,6 @@
 ---
 title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "物理"
+permalink: /General_Relativity
 ---
 这是广义相对论笔记，包括以下内容：
