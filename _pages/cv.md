@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**华中科技大学**，本科 2023年9月--2027年6月
+-   物理学院，物理学
+-   **加权平均成绩**：86.9
+-   **主要课程成绩**：
+   课程名称（中文）          课程名称（英文）           课程成绩
+  ------------------ --------------------------------- ----------
+      广义相对论              General Relati               96
+       量子场论            Quantum Field Theory           100
+     数学物理方法     Mathematical Methods in Physics      98
+       量子力学              Quantum Mechanics             95
 
-Work experience
+获奖经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 第15届全国大学生数学竞赛（非数学A类）省级一等奖
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+技能特长
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  熟悉Python、Matlab、C++等编程语言，高中时曾获市级Python创意编程比赛一等奖，能够完成
+一些物理课题的计算机模拟（如 Ising 模型的Monte Carlo模拟）
 
-Publications
+发表
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+讨论班与教学
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+服务与管理
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 武汉高校天文联合会科研部副部长
+* 华中科技大学物理学院 “星系与宇宙学” 本科创新基地负责人
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
