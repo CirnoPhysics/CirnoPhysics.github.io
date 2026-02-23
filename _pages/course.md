@@ -4,7 +4,7 @@ title: ""
 ---
 点击以下链接可查看培养计划：
 
-[**华中科技大学2023级物理学专业强基计划实验班培养计划（本科阶段）**](https://cirnophysics.github.io/files/program.pdf)
+[**华中科技大学2023级物理学专业强基计划实验班培养计划（本科阶段）**](https://cirnophysics.github.io/files/Program.pdf)
 
 其中**专业选修课程** ：
 - 广义相对论
