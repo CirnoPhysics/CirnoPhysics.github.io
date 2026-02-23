@@ -28,11 +28,6 @@ redirect_from:
 *  熟悉Python、Matlab、C++等编程语言，高中时曾获市级Python创意编程比赛一等奖，能够完成
 一些物理课题的计算机模拟（如 Ising 模型的Monte Carlo模拟）
 
-发表
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 讨论班与教学
 ======
