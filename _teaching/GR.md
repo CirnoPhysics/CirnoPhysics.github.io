@@ -5,7 +5,9 @@ venue: "华中科技大学"
 date: 2025-8-31
 permalink: /General_Relativity
 ---
-这是广义相对论系列笔记，可通过下方链接下载：
+广义相对论系列笔记
+
+可通过下方链接下载
 
 [微分流形](https://CirnoPhysics.github.io/files/notes/GR/GR1.pdf)
 
