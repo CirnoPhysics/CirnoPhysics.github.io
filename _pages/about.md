@@ -17,8 +17,8 @@ redirect_from:
 **业余爱好**
 
 *音乐*
-- 苏俄歌曲｜《乌拉尔的花楸树》《卡林卡》
-- 音乐剧｜《悲惨世界》《我，堂吉诃德》《莫里哀》
+- 苏俄歌曲｜《乌拉尔的花楸树》,《卡林卡》, [etc](https://space.bilibili.com/1383983166/favlist?fid=1490660966&ftype=create).
+- 音乐剧｜《悲惨世界》,《我，堂吉诃德》,《莫里哀》,[etc](https://space.bilibili.com/1383983166/favlist?fid=1564384766&ftype=create)
 - 歌剧｜《塞维利亚的理发师》《军中女郎》《弄臣》
 - 豫剧｜《包青天》《穆桂英挂帅》
   
