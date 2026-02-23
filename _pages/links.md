@@ -29,7 +29,7 @@ David Tong讲义：
 
 麻省理工学院公开课：
 
-[Search | MIT OpenCourseWare | Free Online Course Materials]([https://www.bananaspace.org/wiki/%E9%A6%96%E9%A1%B5](https://ocw.mit.edu/search/))
+[MIT OpenCourseWare Free Online Course Materials]([https://www.bananaspace.org/wiki/%E9%A6%96%E9%A1%B5](https://ocw.mit.edu/search/))
 
 香蕉空间：
 
