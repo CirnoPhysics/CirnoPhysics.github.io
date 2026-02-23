@@ -26,9 +26,9 @@ redirect_from:
 - 形而上学、物理学哲学
   
 *科幻与奇幻*
-- 克苏鲁神话、SCP、怪核
+- [克苏鲁神话](https://www.cthulhuclub.com/)、SCP、怪核
 
 **服务与管理**
-- 武汉高校天文联合会科研部副部长
+- [武汉高校天文联合会](https://mp.weixin.qq.com/s?__biz=MzE5MTMxODYzNg==&mid=2247483652&idx=1&sn=f20ef9365839912942a8c625b32e1431&chksm=97de4278e2afd82dd4e2c007e932241e1b34f4b0f79384e23fcf74a561ba692c5aa58ba86916&mpshare=1&scene=23&srcid=0223PmuwXeJAhLpe9T2qlxyl&sharer_shareinfo=3fc65a67dcc234777a88b3830d9ddc9e&sharer_shareinfo_first=3fc65a67dcc234777a88b3830d9ddc9e#rd)科研部副部长
 - 华中科技大学物理学院 “星系与宇宙学” 本科创新基地负责人
 
