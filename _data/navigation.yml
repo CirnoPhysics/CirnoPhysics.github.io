@@ -20,8 +20,7 @@ main:
   - title: "照片墙"
     url: /portfolio/
         
-  - title: "博客文章"
-    url: /year-archive/
+  
     
   - title: "个人简历"
     url: /cv/
