@@ -1,11 +1,8 @@
 ---
 title: "广义相对论笔记"
-type: "专业核心课程"
-venue: "华中科技大学"
-date: 2025-8-31
 permalink: /General_Relativity
 ---
-广义相对论系列笔记
+
 
 可通过下方链接下载
 
