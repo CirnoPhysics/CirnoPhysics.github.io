@@ -26,9 +26,9 @@ permalink: /foundation
 
 # 热力学与统计物理
 
-[平衡态统计物理学：统计系综](https://CirnoPhysics.github.io/files/notes/thermo/Sta1.pdf)
+[平衡态统计物理学：统计系综](https://CirnoPhysics.github.io/files/notes/Thermo/Sta1.pdf)
 
-[平衡态统计物理学：理想气体](https://CirnoPhysics.github.io/files/notes/thermo/Sta2.pdf)
+[平衡态统计物理学：理想气体](https://CirnoPhysics.github.io/files/notes/Thermo/Sta2.pdf)
 
-[平衡态统计物理学：有相互作用的系统](https://CirnoPhysics.github.io/files/notes/thermo/Sta3.pdf)
+[平衡态统计物理学：有相互作用的系统](https://CirnoPhysics.github.io/files/notes/Thermo/Sta3.pdf)
 
