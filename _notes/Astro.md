@@ -5,8 +5,6 @@ permalink: /General_Relativity
 
 # 广义相对论
 
-可通过下方链接下载
-
 [微分流形](https://CirnoPhysics.github.io/files/notes/GR/GR1.pdf)
 
 [曲率](https://CirnoPhysics.github.io/files/notes/GR/GR2.pdf)
@@ -15,9 +13,6 @@ permalink: /General_Relativity
 
 #  宇宙学
 
-## 基础
-
-## 暴胀
 [暴胀的物理机制]({https://cirnophysics.github.io/files/notes/Cosmology/inflation1})
 
 # 引力波
