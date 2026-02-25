@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% for post in site.notes reversed %}
    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 {% endfor %}
