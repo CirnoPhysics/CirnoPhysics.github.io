@@ -2,17 +2,10 @@
 permalink: /course
 title: ""
 ---
+
+我目前所修读的以及正在修读的课程如下：
+[**修读课程清单**](https://cirnophysics.github.io/files/course.xlsx)
+
 点击以下链接可查看培养计划：
 
 [**华中科技大学2023级物理学专业强基计划实验班培养计划（本科阶段）**](https://cirnophysics.github.io/files/Program.pdf)
-
-其中**专业选修课程** ：
-- 广义相对论
-- 量子场论
-- 群论
-- 核物理与粒子物理
-- 天体物理导论
-- 大学生科研训练导论
-
-**培养计划外课程**：
-- 近世代数
