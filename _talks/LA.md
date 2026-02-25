@@ -2,7 +2,7 @@
 title: "答疑讲解（数学物理方法基础）"
 collection: talks
 type: "习题课"
-permalink: /talks/BHS
+permalink: /talks/LA
 venue: "华中科技大学物理学院"
 date: 2024-6-13
 location: "湖北 武汉"
