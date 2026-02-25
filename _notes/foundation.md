@@ -1,10 +1,14 @@
 ---
-title: "基础课程"
+title: "物理系基础课程"
 permalink: /foundation
 ---
 # 经典力学
 
+待补充
+
 # 电动力学
+
+待补充
 
 # 量子力学
 
@@ -22,5 +26,9 @@ permalink: /foundation
 
 # 热力学与统计物理
 
+[平衡态统计物理学：统计系综](https://CirnoPhysics.github.io/files/notes/thermo/Sta1.pdf)
 
+[平衡态统计物理学：理想气体](https://CirnoPhysics.github.io/files/notes/thermo/Sta2.pdf)
+
+[平衡态统计物理学：有相互作用的系统](https://CirnoPhysics.github.io/files/notes/thermo/Sta3.pdf)
 
