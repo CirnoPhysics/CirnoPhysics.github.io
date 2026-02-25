@@ -3,7 +3,8 @@ permalink: /course
 title: ""
 ---
 
-我目前所修读的以及正在修读的课程如下：
+我目前已修读的以及正在修读的课程如下：
+
 [**修读课程清单**](https://cirnophysics.github.io/files/course.xlsx)
 
 点击以下链接可查看培养计划：
