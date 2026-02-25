@@ -13,7 +13,7 @@ permalink: /General_Relativity
 
 #  宇宙学
 
-[暴胀的物理机制]({https://cirnophysics.github.io/files/notes/Cosmology/inflation1})
+[暴胀的物理机制](https://cirnophysics.github.io/files/notes/Cosmology/inflation1.pdf)
 
 # 引力波
 
