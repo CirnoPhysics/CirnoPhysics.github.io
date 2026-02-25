@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "呜哩天才琪露诺的个人主页"
 title_separator          : "-"
 name                     : &name "呜哩天才琪露诺"
@@ -279,7 +279,15 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
+  #_notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 
 # Sass/SCSS
