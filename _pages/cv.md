@@ -16,9 +16,6 @@ redirect_from:
 -   GPA：3.69/4.00
 -   [修读课程](https://CirnoPhysics.github.io/course)
 
-**华中科技大学**，微专业，2025年10月--2026年10月
-- 数学学院，数据科学与智能计算
-
 
 获奖经历
 ======
