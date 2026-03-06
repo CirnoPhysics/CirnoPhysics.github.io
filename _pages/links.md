@@ -90,3 +90,14 @@ HOW to BECOME a GOOD THEORETICAL PHYSICIST
 by Gerard 't Hooft：
 
 [Gerard ’t Hooft, Theoretical Physics as a Challenge](https://webspace.science.uu.nl/~hooft101/theorist.html)
+
+斯坦福大学哲学百科全书：
+[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+
+CS 自学指南：
+
+[CS自学指南](https://csdiy.wiki/)
+
+浙江大学图灵班学习指南：
+
+[图灵班学习指南](https://zju-turing.github.io/TuringCourses/)
