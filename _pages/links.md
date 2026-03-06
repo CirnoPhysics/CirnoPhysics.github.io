@@ -80,7 +80,7 @@ Tom Hartman 个人主页：
 
 武汉大学理论物理讨论班：
 
-[Outreach | Bufan Zheng](https://whuzbf.github.io/outreach/)
+[Outreach Bufan Zheng](https://whuzbf.github.io/outreach/)
 
 BIMSA 活动：
 
