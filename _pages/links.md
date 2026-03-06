@@ -66,6 +66,27 @@ Hugh Osborn个人主页：
 
 [余钊焕的个人网站 - 教学](https://yzhxxzxy.github.io/cn/teaching.html)
 
+陶哲轩个人主页：
+
+[By Terence Tao](https://terrytao.wordpress.com/)
+
+John Preskill 个人主页：
+
+[John Preskill](https://www.preskill.caltech.edu/)
+
+Tom Hartman 个人主页：
+
+[Tom Hartman's Physics Homepage](http://www.hartmanhep.net/)
+
+武汉大学理论物理讨论班：
+
+[Outreach | Bufan Zheng](https://whuzbf.github.io/outreach/)
+
+BIMSA 活动：
+
+[bimsa activities](https://bimsa.net/web/activities.html)
+
 HOW to BECOME a GOOD THEORETICAL PHYSICIST
 by Gerard 't Hooft：
+
 [Gerard ’t Hooft, Theoretical Physics as a Challenge](https://webspace.science.uu.nl/~hooft101/theorist.html)
