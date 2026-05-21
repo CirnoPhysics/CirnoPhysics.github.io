@@ -1,7 +1,8 @@
 ---
 title: "数学系基础课程"
-permalink: /Mathematics
+permalink: /Mathematics/
 ---
+
 # 实分析
 
 待补充
