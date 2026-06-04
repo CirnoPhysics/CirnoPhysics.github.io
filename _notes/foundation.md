@@ -4,7 +4,11 @@ permalink: /foundation
 ---
 # 经典力学
 
-待补充
+[Lagrange力学](https://CirnoPhysics.github.io/files/notes/Mech/LanMech.pdf)
+
+[两体运动](https://CirnoPhysics.github.io/files/notes/Mech/twobody.pdf)
+
+[微扰论与小振动](https://CirnoPhysics.github.io/files/notes/Mech/oscillator.pdf)
 
 # 电动力学
 
