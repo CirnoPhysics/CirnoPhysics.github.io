@@ -18,6 +18,10 @@ permalink: /foundation
 
 [电磁波的产生与传播](https://CirnoPhysics.github.io/files/notes/EM/EW.pdf)
 
+# 狭义相对论
+
+[狭义相对论](https://CirnoPhysics.github.io/files/notes/GR/SR.pdf)
+
 # 量子力学
 
 
