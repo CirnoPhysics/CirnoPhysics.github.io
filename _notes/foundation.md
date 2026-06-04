@@ -12,7 +12,11 @@ permalink: /foundation
 
 # 电动力学
 
-待补充
+[数学准备与电磁学回顾](https://CirnoPhysics.github.io/files/notes/EM/math.pdf)
+
+[静电学与静磁学](https://CirnoPhysics.github.io/files/notes/EM/statics.pdf)
+
+[电磁波的产生与传播](https://CirnoPhysics.github.io/files/notes/EM/EW.pdf)
 
 # 量子力学
 
