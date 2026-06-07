@@ -16,3 +16,5 @@ permalink: /Mathematics/
 [赋范线性空间](https://CirnoPhysics.github.io/files/notes/FunAnalysis/norm.pdf)
 
 [内积空间](https://CirnoPhysics.github.io/files/notes/FunAnalysis/Hilbert.pdf)
+
+[内积空间](https://CirnoPhysics.github.io/files/notes/FunAnalysis/operator.pdf)
