@@ -17,4 +17,4 @@ permalink: /Mathematics/
 
 [内积空间](https://CirnoPhysics.github.io/files/notes/FunAnalysis/Hilbert.pdf)
 
-[内积空间](https://CirnoPhysics.github.io/files/notes/FunAnalysis/operator.pdf)
+[线性算子与线性泛函](https://CirnoPhysics.github.io/files/notes/FunAnalysis/operator.pdf)
