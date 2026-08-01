@@ -2,7 +2,9 @@
 title: "数学系基础课程"
 permalink: /Mathematics/
 ---
-# 数理逻辑与集合论(https://CirnoPhysics.github.io/files/notes/logic.pdf)
+# 数理逻辑与集合论
+
+[数理逻辑与集合论](https://CirnoPhysics.github.io/files/notes/logic.pdf)
 
 
 # 实分析
