@@ -13,7 +13,7 @@ redirect_from:
 ======
 **华中科技大学**，本科，2023年9月--2027年6月
 -   物理学院，物理学
--   GPA：3.69/4.00
+-   GPA：3.42/4.00
 -   [修读课程](https://CirnoPhysics.github.io/course)
 
 
@@ -35,11 +35,6 @@ redirect_from:
 一些物理课题的计算机模拟（如 Ising 模型的Monte Carlo模拟）
 
   
-讨论班与教学
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 
   
