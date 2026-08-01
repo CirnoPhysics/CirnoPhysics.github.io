@@ -4,10 +4,11 @@ permalink: /mathphys
 ---
 # 复变函数
 
-
+待补充
 
 # 数学物理方程
 
+待补充
 
 
 # 有限群表示论
@@ -16,12 +17,12 @@ permalink: /mathphys
 
 # 李群李代数
 
-
+待补充
 
 # 微分几何
 
+待补充
+
 # 拓扑
 
-[平衡态统计物理学：理想气体](https://CirnoPhysics.github.io/files/notes/Thermo/Sta2.pdf)
-
-[平衡态统计物理学：有相互作用的系统](https://CirnoPhysics.github.io/files/notes/Thermo/Sta3.pdf)
+待补充
