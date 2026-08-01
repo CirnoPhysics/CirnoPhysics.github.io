@@ -19,10 +19,6 @@ permalink: /mathphys
 
 待补充
 
-# 微分几何
+# 微分几何与拓扑
 
-待补充
-
-# 拓扑
-
-待补充
+[拓扑学基础与同调群](https://CirnoPhysics.github.io/files/notes/mathphys/HOMOLOGY.pdf)
