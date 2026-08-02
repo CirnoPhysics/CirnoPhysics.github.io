@@ -13,4 +13,4 @@ permalink: /Quantum_Field_Theory
 
 # 弦论
 
-[弦论](https://CirnoPhysics.github.io/files/notes/String/string.pdf)
+[经典弦与量子弦](https://CirnoPhysics.github.io/files/notes/String/string.pdf)
