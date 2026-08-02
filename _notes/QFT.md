@@ -11,3 +11,6 @@ permalink: /Quantum_Field_Theory
 [自由标量场](https://CirnoPhysics.github.io/files/notes/QFT/QFT1.pdf)
 
 
+# 弦论
+
+[弦论](https://CirnoPhysics.github.io/files/notes/String/string.pdf)
