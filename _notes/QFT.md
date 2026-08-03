@@ -12,8 +12,9 @@ permalink: /Quantum_Field_Theory
 
 [旋量场](https://CirnoPhysics.github.io/files/notes/QFT/spinor.pdf)
 
-
 [矢量场](https://CirnoPhysics.github.io/files/notes/QFT/vector.pdf)
+
+[相互作用量子场论和树图阶QED](https://CirnoPhysics.github.io/files/notes/QFT/qedtree.pdf)
 
 
 
