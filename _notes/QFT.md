@@ -10,6 +10,12 @@ permalink: /Quantum_Field_Theory
 
 [自由标量场](https://CirnoPhysics.github.io/files/notes/QFT/QFT1.pdf)
 
+[旋量场](https://CirnoPhysics.github.io/files/notes/QFT/spinor.pdf)
+
+
+[矢量场](https://CirnoPhysics.github.io/files/notes/QFT/vector.pdf)
+
+
 
 # 弦论
 
