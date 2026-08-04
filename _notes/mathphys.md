@@ -32,3 +32,5 @@ permalink: /mathphys
 # 微分几何与拓扑
 
 [拓扑学基础与同调群](https://CirnoPhysics.github.io/files/notes/mathphys/HOMOLOGY.pdf)
+
+[基本群](https://CirnoPhysics.github.io/files/notes/mathphys/fungrp.pdf)
