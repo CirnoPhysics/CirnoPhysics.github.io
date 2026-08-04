@@ -16,7 +16,7 @@ permalink: /Quantum_Field_Theory
 
 [相互作用量子场论和树图阶QED](https://CirnoPhysics.github.io/files/notes/QFT/qedtree.pdf)
 
-
+[路径积分量子化](https://CirnoPhysics.github.io/files/notes/QFT/pathint.pdf)
 
 # 弦论
 
