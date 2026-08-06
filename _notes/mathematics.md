@@ -24,6 +24,10 @@ permalink: /Mathematics/
 
 # 代数与数论
 
+## 抽象代数
+
+[群论基础](https://CirnoPhysics.github.io/files/notes/algebra/GrpFund.pdf)
+
 ## 数论
 
 [初等数论：整除理论](https://CirnoPhysics.github.io/files/notes/NumTh/divisibility.pdf)
