@@ -6,7 +6,7 @@ permalink: /Mathematics/
 
 [数理逻辑与集合论](https://CirnoPhysics.github.io/files/notes/logic.pdf)
 
-# 分析与方程
+# 分析与方程 
 
 ## 实分析
 
