@@ -26,7 +26,7 @@ permalink: /Mathematics/
 
 ## 抽象代数
 
-[群论基础](https://CirnoPhysics.github.io/files/notes/algebra/GrpFund.pdf)
+[群论基础](https://CirnoPhysics.github.io/files/notes/algebra/Grp-Fund.pdf)
 
 ## 数论
 
