@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+个人教材推荐：
+[推荐](https://CirnoPhysics.github.io/recommendation)
+
 超理论坛：
 [超理论坛](https://chaoli.club/index.php/conversations/all)
 
