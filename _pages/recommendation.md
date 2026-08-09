@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "recommendation"
+permalink: /recommendation/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 # 物理系教材推荐（更新中） 
 
 ## 经典力学
