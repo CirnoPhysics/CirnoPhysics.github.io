@@ -2,7 +2,7 @@
 layout: archive
 title: "recommendation"
 permalink: /recommendation/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
