@@ -18,6 +18,8 @@ permalink: /Quantum_Field_Theory
 
 [路径积分量子化](https://CirnoPhysics.github.io/files/notes/QFT/pathint.pdf)
 
+[圈图阶QED与重整化](https://CirnoPhysics.github.io/files/notes/QFT/loopQED.pdf)
+
 # 弦论
 
 [经典弦与量子弦](https://CirnoPhysics.github.io/files/notes/String/string.pdf)
