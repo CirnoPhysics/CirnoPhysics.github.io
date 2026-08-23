@@ -14,6 +14,15 @@ redirect_from:
 **华中科技大学**，本科，2023年9月--2027年6月
 -   物理学院，物理学
 -   GPA：3.42/4.00
+-   核心专业课程成绩（部分）
+
+| 课程名称 | 学分 | 成绩（百分制） |
+| :--- | :---: | :---: |
+| 量子场论 (Quantum Field Theory) | 4.0 | 100 |
+| 广义相对论 (General Relativity) | 4.0 | 96 |
+| 群论 (Group Theory) | 4.0 | 93 |
+| 现代数理方法 (Advanced Mathematical Methods in Physics) | 4.0 | 93 |
+
 -   [修读课程](https://CirnoPhysics.github.io/course)
 
 
