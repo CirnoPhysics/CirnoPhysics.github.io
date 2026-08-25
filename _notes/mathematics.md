@@ -1,5 +1,5 @@
 ---
-title: "数学系基础课程"
+title: "数学类"
 permalink: /Mathematics/
 ---
 # 数理逻辑与集合论
@@ -31,3 +31,4 @@ permalink: /Mathematics/
 ## 数论
 
 [初等数论：整除理论](https://CirnoPhysics.github.io/files/notes/NumTh/divisibility.pdf)
+
