@@ -40,6 +40,8 @@ permalink: /physics
 
 ## 热力学与统计物理
 
+[热学](https://CirnoPhysics.github.io/files/notes/Thermo/thermo.pdf)
+
 [平衡态统计物理学：统计系综](https://CirnoPhysics.github.io/files/notes/Thermo/Sta1.pdf)
 
 [平衡态统计物理学：理想气体](https://CirnoPhysics.github.io/files/notes/Thermo/Sta2.pdf)
