@@ -49,3 +49,16 @@ redirect_from:
 
 ## 哲学
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+
+## 学术机构与科研院所
+- [北京大学物理学院](https://www.phy.pku.edu.cn/)
+- [清华大学物理系](https://www.phys.tsinghua.edu.cn/)
+- [中国科学技术大学物理学院](https://physics.ustc.edu.cn/)
+- [南京大学物理学院](https://physics.nju.edu.cn/)
+- [复旦大学物理学系](https://phys.fudan.edu.cn/)
+- [中科院物理所](https://www.iop.cas.cn/)
+- [中科院高能所](https://www.ihep.ac.cn/)
+- [国家天文台](https://www.nao.cas.cn/)
+- [北京雁栖湖应用数学研究院（BIMSA）](https://www.bimsa.cn/)
+- [国际理论物理中心（ICTP）](https://www.ictp.it/)
+- [华中科技大学物理系](https://phys.hust.edu.cn/)
