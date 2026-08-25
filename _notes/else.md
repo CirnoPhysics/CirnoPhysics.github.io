@@ -1,6 +1,6 @@
 ---
 title: "其它"
-permalink: /Yau2026
+permalink: /else
 ---
 
 [第十七届丘成桐大学生数学竞赛（数学物理赛道）
