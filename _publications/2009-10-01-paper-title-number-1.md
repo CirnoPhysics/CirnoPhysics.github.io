@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Spacelike reduction of the gravitational topological terms and associated helicity densities"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: preprint
+permalink: /publication/2026-08-31
+excerpt: 'This paper reduces the Pontryagin and Nieh‑Yang terms, defines four gravitational helicity densities under linearized SVT decomposition, and applies them to systems such as Newtonian binaries, weak‑field boosted Kerr black holes, gyratonic pp‑waves, and a linearized gravitational Hopfion.'
+date: 2026-08-31
+paperurl: 'https://arxiv.org/pdf/2608.30154'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Helicity in gravity is a multifaceted concept, and several inequivalent definitions exist in the literature. In this work, we reduce the topological Pontryagin and Nieh-Yan terms to a constant time spacelike hypersurface. Remarkably, upon applying the SVT decomposition at the linearized level, we obtain four distinct helicity densities. The helicity density arising from the Nieh-Yan term is termed the spin-1 and spin-2 gravitomagnetic helicity density, depending on whether it originates from vector or tensor modes. Meanwhile, the helicity density arising from the Pontryagin term is termed the spin-1 and spin-2 gravito-current helicity density, according to the corresponding mode contributions. We study the mode and multipole expansions of these helicity functionals and apply them to leading order Newtonian two-body systems, weak field boosted Kerr, a locally defined slowly varying gyratonic pp-wave model, and a linearized gravitational Hopfion.
