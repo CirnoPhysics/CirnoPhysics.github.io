@@ -27,6 +27,7 @@ permalink: /Mathematics/
 ## 抽象代数
 
 [群论基础](https://CirnoPhysics.github.io/files/notes/algebra/Grp-Fund.pdf)
+
 [环与因子分解理论](https://CirnoPhysics.github.io/files/notes/algebra/ring.pdf)
 
 ## 数论
