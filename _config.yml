@@ -84,6 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  preprints:
+    title: '预印本'
   books:
     title: '书籍'
   manuscripts:
