@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV 下载地址](https://CirnoPhysics.github.io/files/cv.pdf)
+[CV 下载地址](https://CirnoPhysics.github.io/files/CV.pdf)
 
 教育经历
 ======
