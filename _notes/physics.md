@@ -48,6 +48,8 @@ permalink: /physics
 
 [平衡态统计物理学：有相互作用的系统](https://CirnoPhysics.github.io/files/notes/Thermo/Sta3.pdf)
 
+[统计物理基础：本征热化假设](https://CirnoPhysics.github.io/files/notes/Thermo/ETH.pdf)
+
 # 数学物理方法
 
 ## 复变函数
