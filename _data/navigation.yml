@@ -16,7 +16,10 @@ main:
 
   - title: "笔记与随想"
     url: /notes/    
-    
+
+  - title: "其它创作"
+    url: /pieces/
+  
   - title: "照片墙"
     url: /portfolio/
     
