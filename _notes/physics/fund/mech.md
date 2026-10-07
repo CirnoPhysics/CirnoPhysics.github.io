@@ -1,6 +1,6 @@
 ---
 title: "经典力学"
-permalink: /physics/fund
+permalink: /physics/fund/mech
 ---
 
 [Lagrange力学](https://CirnoPhysics.github.io/files/notes/Mech/LanMech.pdf)
