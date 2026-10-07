@@ -1,6 +1,8 @@
 ---
+
 title: "【纪念毛主席逝世50周年/Hitchcock】"
 permalink: /pieces/lyrics/Hitchcock
+
 ---
 
 本家： ヨルシカ，ヒッチコック（Hitchcock）
