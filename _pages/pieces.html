@@ -6,7 +6,47 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<h2>史替填词</h2>
 {% for post in site.pieces reversed %}
-   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+   {% if post.path contains "lyrics/" %}
+      <div class="grid-item">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </div>
+    {% endif %}
+{% endfor %}
+
+<h2>史替解读与影评</h2>
+{% for post in site.pieces reversed %}
+   {% if post.path contains "comments/" %}
+      <div class="grid-item">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </div>
+    {% endif %}
+{% endfor %}
+
+<h2>政经导读与短评</h2>
+{% for post in site.pieces reversed %}
+   {% if post.path contains "intro/" %}
+      <div class="grid-item">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </div>
+    {% endif %}
+{% endfor %}
+
+<h2>毛泽东诞辰纪念文章</h2>
+{% for post in site.pieces reversed %}
+   {% if post.path contains "memo/" %}
+      <div class="grid-item">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </div>
+    {% endif %}
+{% endfor %}
+
+<h2>翻译</h2>
+{% for post in site.pieces reversed %}
+   {% if post.path contains "trans/" %}
+      <div class="grid-item">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </div>
+    {% endif %}
 {% endfor %}
