@@ -1,6 +1,8 @@
 ---
+
 title: "【纪念毛主席逝世50周年/死别】"
 permalink: /pieces/lyrics/utopia
+
 ---
 
 本家：シャノン，死別
