@@ -1,6 +1,6 @@
 ---
 title: "热力学与统计物理"
-permalink: /physics/fund/ESP
+permalink: /physics/fund
 ---
 
 [热学](https://CirnoPhysics.github.io/files/notes/Thermo/thermo.pdf)
