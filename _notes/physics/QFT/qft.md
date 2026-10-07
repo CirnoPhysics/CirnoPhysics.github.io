@@ -1,6 +1,6 @@
 ---
 title: "量子场论"
-permalink: /physics/QFT
+permalink: /physics/QFT/qft
 ---
 
 [自由标量场](https://CirnoPhysics.github.io/files/notes/QFT/QFT1.pdf)
