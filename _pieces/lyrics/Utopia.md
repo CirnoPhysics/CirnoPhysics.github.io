@@ -2,6 +2,7 @@
 title: "【纪念毛主席逝世50周年/反乌托邦】"
 permalink: lyrics/utopia
 ---
+
 本家：Utopia_乌托邦P，《反乌托邦》
 
 [【反乌托邦/纪念里德逝世50周年】“就请你放心大胆去冲破樊篱，迈步向前别害怕孤立”] (https://www.bilibili.com/video/BV199td6DExJ)
