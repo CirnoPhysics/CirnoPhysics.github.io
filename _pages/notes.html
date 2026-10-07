@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>数学</h1>
+<h2>数学</h2>
 <div class="notes-grid">
   {% for post in site.notes reversed %}
     {% if post.path contains "math/" %}
@@ -17,11 +17,13 @@ author_profile: true
     {% endif %}
   {% endfor %}
 </div>
-<h1>物理学</h1>
+<h2>物理学</h2>
 <div class="notes-grid">
   {% for post in site.notes.physics reversed %}
-    <div class="grid-item">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </div>
+     {% if post.path contains "physics/" %}
+      <div class="grid-item">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </div>
+    {% endif %}
   {% endfor %}
 </div>
