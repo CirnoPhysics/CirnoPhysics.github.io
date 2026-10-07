@@ -1,7 +1,7 @@
 ---
 
 title: "【纪念毛主席逝世50周年/死别】"
-permalink: /pieces/lyrics/utopia
+permalink: /pieces/lyrics/death
 
 ---
 
