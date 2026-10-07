@@ -1,6 +1,6 @@
 ---
 title: "泛函分析"
-permalink: /Mathematics/analysis
+permalink: /Mathematics/analysis/func
 ---
 
 [度量空间](https://CirnoPhysics.github.io/files/notes/FunAnalysis/metric.pdf)
