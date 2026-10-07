@@ -9,10 +9,12 @@ author_profile: true
 
 <h1>数学</h1>
 <div class="notes-grid">
-  {% for post in site.notes.math reversed %}
-    <div class="grid-item">
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </div>
+  {% for post in site.notes reversed %}
+    {% if post.path contains "math/" %}
+      <div class="grid-item">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </div>
+    {% endif %}
   {% endfor %}
 </div>
 <h1>物理学</h1>
