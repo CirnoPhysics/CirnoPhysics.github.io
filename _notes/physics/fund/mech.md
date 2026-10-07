@@ -1,5 +1,5 @@
 ---
-title: "物理类"
+title: "经典力学"
 permalink: /physics/fund/mech
 ---
 
