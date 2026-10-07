@@ -224,6 +224,9 @@ collections:
   notes:
     output: true
     permalink: /notes/:path/
+  pieces:
+    output: true
+    permalink: /pieces/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -285,6 +288,15 @@ defaults:
   - scope:
       path: ""
       type: notes
+    values:
+      layout: single
+      author_profile: true
+      share: false
+
+  #_notes
+  - scope:
+      path: ""
+      type: pieces
     values:
       layout: single
       author_profile: true
