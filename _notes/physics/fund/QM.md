@@ -1,6 +1,6 @@
 ---
 title: "量子力学"
-permalink: /physics/fund
+permalink: /physics/fund/qm
 ---
 
 [量子力学的形式理论](https://CirnoPhysics.github.io/files/notes/QM/QM1.pdf)
