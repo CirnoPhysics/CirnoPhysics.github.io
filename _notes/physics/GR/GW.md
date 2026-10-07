@@ -1,6 +1,6 @@
 ---
 title: "引力波物理"
-permalink: /physics/GR
+permalink: /physics/GR/gw
 ---
 
 [引力波的几何分析](https://CirnoPhysics.github.io/files/notes/GWs/GW1.pdf)
