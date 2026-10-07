@@ -1,6 +1,6 @@
 ---
 title: "【纪念毛主席逝世50周年/反乌托邦】"
-permalink: lyrics/
+permalink: /lyrics/
 ---
 本家：Utopia_乌托邦P，《反乌托邦》
 
