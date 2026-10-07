@@ -1,6 +1,6 @@
 ---
 title: "抽象代数"
-permalink: /math/algebra
+permalink: /math/algebra/modern
 ---
 
 [群论](https://CirnoPhysics.github.io/files/notes/algebra/Grp-Fund.pdf)
