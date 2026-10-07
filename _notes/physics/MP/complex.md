@@ -1,6 +1,6 @@
 ---
 title: "复变函数"
-permalink: /physics/MP
+permalink: physics/MP
 ---
 
 [复数域与解析函数](https://CirnoPhysics.github.io/files/notes/mathphys/holomorphic.pdf)
