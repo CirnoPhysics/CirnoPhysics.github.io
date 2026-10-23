@@ -6,3 +6,5 @@ permalink: /physics/MP/DG
 [拓扑学基础与同调群](https://CirnoPhysics.github.io/files/notes/mathphys/HOMOLOGY.pdf)
 
 [基本群](https://CirnoPhysics.github.io/files/notes/mathphys/fungrp.pdf)
+
+[规范场论与 Chern-Simons 理论](https://CirnoPhysics.github.io/files/notes/mathphys/gauge.pdf)
